@@ -6,7 +6,6 @@
 
 💻 Desenvolvedora de sistemas apaixonada por tecnologia e ideias impactadoras  
 💜 Diretora Administrativa Financeiro pela Signal Jr - Soluções em TI
-
 🎓 Estudante de Sistemas de Informação pela UFRRJ  
 🌐 Interesses: Desenvolvimento Web & Análise de Dados  
 
