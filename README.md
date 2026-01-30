@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Oi, eu sou a Isa! 💜</h1>
 
-<!--
-**isabeleoliveira20/isabeleoliveira20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.gifer.com/1ZzF.gif" width="250px"/>
+</p>
 
-Here are some ideas to get you started:
+💻 Desenvolvedora de sistemas apaixonada por tecnologia e ideias impactadoras  
+🎓 Estudante de Sistemas de Informação pela UFRRJ  
+🌐 Interesses: Desenvolvimento Web & Análise de Dados  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que estou aprendendo
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-DA70D6?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-BA55D3?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabeleoliveira20&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isa-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Vamos nos conectar!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabele-oliveira/)
+
+---
+
+<p align="center">✨ Sempre aprendendo e buscando causar impacto com tecnologia! ✨</p>
