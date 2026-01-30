@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Isa! 💜</h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/1ZzF.gif" width="250px"/>
+  <img src="(https://tenor.com/pt-BR/view/neoboxd-hello-kitty-gif-26270435)" width="250px"/>
 </p>
 
 💻 Desenvolvedora de sistemas apaixonada por tecnologia e ideias impactadoras  
