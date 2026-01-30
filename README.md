@@ -32,4 +32,3 @@
 
 ---
 
-<p align="center">✨ Sempre aprendendo e buscando causar impacto com tecnologia! ✨</p>
