@@ -4,13 +4,13 @@
   <img src="https://media.tenor.com/LIzPR1aN3xMAAAAi/neoboxd-hello-kitty.gif" width="250px"/>
 </p>
 
-💻 Desenvolvedora de sistemas apaixonada por tecnologia e ideias impactadoras  
+Desenvolvedora de sistemas apaixonada por tecnologia e ideias impactadoras  
 
-💜 Diretora Administrativa Financeiro pela Signal Jr - Soluções em TI
+Diretora Administrativa Financeiro pela Signal Jr - Soluções em TI
 
-🎓 Estudante de Sistemas de Informação pela UFRRJ  
+Estudante de Sistemas de Informação pela UFRRJ  
 
-🌐 Interesses: Desenvolvimento Web & Análise de Dados  
+Interesses: Desenvolvimento Web & Análise de Dados  
 
 ---
 
