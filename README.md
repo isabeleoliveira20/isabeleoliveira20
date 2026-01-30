@@ -14,7 +14,7 @@ Interesses: Desenvolvimento Web & Análise de Dados
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## Tecnologias que estou aprendendo
 <p align="left">
   <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -25,13 +25,13 @@ Interesses: Desenvolvimento Web & Análise de Dados
 ---
 
 
-## 📊 Estatísticas
+##  Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabeleoliveira20&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isa-dev&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Vamos nos conectar!
+##  Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabele-oliveira/)
 
 ---
